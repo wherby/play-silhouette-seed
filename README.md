@@ -9,7 +9,7 @@ The Silhouette Seed project is an Activator template which shows how [Silhouette
 
 (The "Build App" phase will take a few minutes)
 
-Or you can find a running example of this template under the following URL: https://play-silhouette-seed.herokuapp.com/
+Or you can find a running example of this template under the following URL: https://test-sihouette.herokuapp.com/
 
 ## Features
 
